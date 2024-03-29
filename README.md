@@ -2,10 +2,7 @@
 
 ## Project definition
 
-> A project involves the development of an interactive counter that enables
-> users to incrementally or decrementally count numerical values. I developed
-> using HTML, CSS, and JavaScript with folders provided for the application of
-> Separation of Concerns.
+> A project involves the development of an interactive counter that enables users to incrementally or decrementally count numerical values. I developed using HTML, CSS, and JavaScript with folders provided for the application of Separation of Concerns.
 
 ## Table of contents
 
@@ -48,7 +45,7 @@
 
 ```js
 'use strict';
-//data
+// Data
 
 const data = {
   count: 0,
@@ -65,16 +62,16 @@ const dom = {
 
 ## Features
 
-List of features ready and To dos for future development
+List of features ready and Todos for future development
 
--Increment: Users can increase the count by a specified value. -Decrement: Users
-can decrease the count by a specified value. -Reset: Ability to reset the count
-to its initial value.
+- Increment: Users can increase the count by a specified value. 
+- Decrement: Users can decrease the count by a specified value. 
+- Reset: Ability to reset the count to its initial value.
 
 To-do list:
 
 - Setup Development Environment
-- Design User Interface (UI):
+- Design User Interface (UI)
 - Implementation of Increment Decrement Functions
 
 ## Status
@@ -83,8 +80,9 @@ Project is: completed
 
 ## Inspiration
 
--Technological interest -Creative exploration -Everyday Utility -Educational
-Tools
+- Technological interest 
+- Creative exploration 
+- Educational tools
 
 ## Contact
 
