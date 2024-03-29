@@ -1,17 +1,16 @@
 # Counter
 
-> Project definition
+## Project definition
 
-- A project involves the development of an interactive counter device that
-  enables users to incrementally or decrementally count numerical values. The
-  primary purpose of a counter project is to provide a convenient and efficient
-  way for users to track and manage counts in various contexts.I developed using
-  HTML, CSS, and JavaScript with folders for application of Separation of
-  Concerns.
+> A project involves the development of an interactive counter that enables
+> users to incrementally or decrementally count numerical values. I developed
+> using HTML, CSS, and JavaScript with folders provided for the application of
+> Separation of Concerns.
 
 ## Table of contents
 
 - [Counter](#counter)
+  - [Project definition](#project-definition)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -39,10 +38,11 @@
 
 ## Setup
 
-1. Clone the repo from your GitHub account git clone <HTTPS link>
-1. Open Visual Studio Code
-1. Run npm i
-1. Open index.html
+1. Clone the repo from your GitHub account
+   > git clone `HTTPS link`
+2. Open Visual Studio Code
+3. Run npm i
+4. Open index.html
 
 ## Code Examples
 
@@ -73,8 +73,9 @@ to its initial value.
 
 To-do list:
 
--Customizable Step: Allow users to set their preferred increment and decrement
-values.
+- Setup Development Environment
+- Design User Interface (UI):
+- Implementation of Increment Decrement Functions
 
 ## Status
 
